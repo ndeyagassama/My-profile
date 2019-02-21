@@ -1,0 +1,30 @@
+
+div{
+	background-color:white;
+	margin: 150px;
+	padding: 30px;
+	box-shadow: 10px 20px 30px grey;
+}
+
+h1{ 
+  color: BLACK;
+	font-size: 40px;
+	background-color:#EFD3C8;
+	font-family: ALGERIAN;
+
+} 
+
+
+h2 {
+	color:orange;
+	font-size: 40px
+	background-color:#EFD3C8;
+	font-family: Algerian;
+ li {
+	color:blue;
+	font-size: 30px;
+	background-color:#EFD3C8;
+	font-family: Bresh script mt;
+} 	
+
+
